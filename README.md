@@ -102,7 +102,7 @@ Feel free to contribute by making a pull request or filing an issue.
 
 - Computational fluid dynamics
   - [Meteodyn WT](https://meteodyn.com/sectors/onshore-and-offshore-wind-power/meteodyn-universe-wind-farm-development-software/meteodyn-wt-wind-resource-assessment-software/) - CFD tool for wind resource assessment and site optimization
-  - [OpenFOAM](https://link.springer.com/article/10.1007/s11012-024-01826-x) - Open-source CFD software for wind engineering and computational wind analysis
+  - [OpenFOAM](https://openfoam.org/) - Open-source CFD software for wind engineering and computational wind analysis
   - [WindSim](https://www.windsim.com/) - Three-dimensional wind field modeling for wind farm layout optimization
 - Lidar
   - [WindCube](https://www.vaisala.com/) - Lidar systems with flow complexity recognition for wind measurement
