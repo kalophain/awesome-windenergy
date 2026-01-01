@@ -44,7 +44,7 @@ Feel free to contribute by making a pull request or filing an issue.
 
 ## Data
 
-- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Awesome list about publics data sets mainly not for wind energy
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Awesome list about public data sets mainly not for wind energy
 - [Global Wind Atlas](https://gee-community-catalog.org/projects/gwa/) - High-resolution global wind resource estimates with downloadable datasets for GIS analysis
 - [IEA Wind TCP Open Data Portal](https://iea-wind.org/task43/task-43-open-data/) - Open data portal for wind energy research with multiple international datasets
 - [IEEE DataPort Wind Turbine DataSet](https://ieee-dataport.org/documents/wind-turbine-dataset) - Historical wind speed, power output, and environmental factors for ML research
@@ -53,7 +53,7 @@ Feel free to contribute by making a pull request or filing an issue.
 - [Open Energy Data Initiative (OEDI)](https://data.openei.org/?sectors=wind) - Centralized access to thousands of wind energy datasets from DOE-funded projects
 - [Open Wind Energy Platform](https://openwind.energy/) - Open data portal for onshore wind site selection with industry standards
 - [Wind Data Hub (WDH)](https://wdh.energy.gov/data/wind-energy) - U.S. DOE's aggregated wind energy datasets for research and analysis
-- [Wind Energy: Taxononmies and vocabulary](https://github.com/wind-energy/taxonomies-and-vocabularies) - Taxonomies and vocabulary as a result from the EERA JP WIND IRPWind Open Data initiative
+- [Wind Energy: Taxonomies and vocabulary](https://github.com/wind-energy/taxonomies-and-vocabularies) - Taxonomies and vocabulary as a result from the EERA JP WIND IRPWind Open Data initiative
 
 ## Discussions
 
@@ -80,12 +80,12 @@ Feel free to contribute by making a pull request or filing an issue.
 ## Research Topics
 
 - Acoustics
-- Athmospheric condistions
+- Atmospheric conditions
 - Forecasting
 - Grid services and stability
 - Lidar and its usage
 - Offshore
-- Site assesment
+- Site assessment
 
 ## Organizations
 
