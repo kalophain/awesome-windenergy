@@ -44,7 +44,7 @@ Feel free to contribute by making a pull request or filing an issue.
 
 ## Data
 
-- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Awesome list about public data sets mainly not for wind energy
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - Awesome list of public datasets, not specifically for wind energy
 - [Global Wind Atlas](https://gee-community-catalog.org/projects/gwa/) - High-resolution global wind resource estimates with downloadable datasets for GIS analysis
 - [IEA Wind TCP Open Data Portal](https://iea-wind.org/task43/task-43-open-data/) - Open data portal for wind energy research with multiple international datasets
 - [IEEE DataPort Wind Turbine DataSet](https://ieee-dataport.org/documents/wind-turbine-dataset) - Historical wind speed, power output, and environmental factors for ML research
